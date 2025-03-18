@@ -1,0 +1,24 @@
+{
+    "products": [
+      {
+        "name": "MICRO2",
+        "firmware_version": "05.17",
+        "firmware_path": "/MICRO2/MICRO2_05.17.bin"
+      },
+      {
+        "name": "MICRO2_S3",
+        "firmware_version": "05.16",
+        "firmware_path": "/MICRO2_S3/MICRO2_S3_05.16.bin"
+      },
+      {
+        "name": "SWORL_Multiconsole",
+        "firmware_version": "07.07",
+        "firmware_path": "/SWORL_Multiconsole/SWORL_Multiconsole_07.07.bin"
+      },
+      {
+        "name": "SWORL_Basic",
+        "firmware_version": "06.02",
+        "firmware_path": "/SWORL_Basic/SWORL_Basic_06.02.bin"
+      }
+    ]
+  }
