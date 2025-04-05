@@ -2,8 +2,8 @@
     "products": [
       {
         "name": "MICRO2",
-        "firmware_version": "05.17",
-        "firmware_path": "/MICRO2/MICRO2_05.17.bin"
+        "firmware_version": "05.18",
+        "firmware_path": "/MICRO2/MICRO2_05.18.bin"
       },
       {
         "name": "MICRO2_S3",
