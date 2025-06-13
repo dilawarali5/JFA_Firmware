@@ -12,8 +12,8 @@
       },
       {
         "name": "SWORL_Multiconsole",
-        "firmware_version": "07.09",
-        "firmware_path": "/SWORL_Multiconsole/SWORL_Multiconsole_07.09.bin"
+        "firmware_version": "07.10",
+        "firmware_path": "/SWORL_Multiconsole/SWORL_Multiconsole_07.10.bin"
       },
       {
         "name": "SWORL_Basic",
