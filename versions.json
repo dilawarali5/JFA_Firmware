@@ -17,8 +17,8 @@
       },
       {
         "name": "SWORL_Basic",
-        "firmware_version": "06.05",
-        "firmware_path": "/SWORL_Basic/SWORL_Basic_06.05.bin"
+        "firmware_version": "06.04",
+        "firmware_path": "/SWORL_Basic/SWORL_Basic_06.04.bin"
       }
     ]
   }
